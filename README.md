@@ -8,9 +8,9 @@ BOOM-and-purchasing
 │  ├── templates/
 │  │   └── index.html         # 上传页面
 │  ├── uploads/                # 临时存放上传的文件
-│  ├── outputs/                # 存放生成的采购清单文件
-│  ├── requirements.txt       # 依赖列表
-│  └── rules.md               #项目需求
+│  └──  outputs/                # 存放生成的采购清单文件 
 ├── README.md
+├── requirements.txt       # 依赖列表
+├── rules.md               #项目需求
 └── .gitignore
 ```
